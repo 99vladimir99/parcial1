@@ -87,7 +87,7 @@ namespace EjercicioParcial1
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(43, 127);
+            this.lblNombre.Location = new System.Drawing.Point(43, 104);
             this.lblNombre.Name = "lblNombre";
             this.lblNombre.Size = new System.Drawing.Size(71, 13);
             this.lblNombre.TabIndex = 4;
@@ -114,7 +114,7 @@ namespace EjercicioParcial1
             // lblApellido
             // 
             this.lblApellido.AutoSize = true;
-            this.lblApellido.Location = new System.Drawing.Point(46, 208);
+            this.lblApellido.Location = new System.Drawing.Point(43, 206);
             this.lblApellido.Name = "lblApellido";
             this.lblApellido.Size = new System.Drawing.Size(73, 13);
             this.lblApellido.TabIndex = 7;
@@ -152,7 +152,7 @@ namespace EjercicioParcial1
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(49, 160);
+            this.txtNombre.Location = new System.Drawing.Point(43, 135);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(100, 20);
             this.txtNombre.TabIndex = 12;
