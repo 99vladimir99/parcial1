@@ -16,7 +16,7 @@ namespace EjercicioParcial1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new txtTel());
+            Application.Run(new Form1());
         }
     }
 }
